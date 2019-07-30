@@ -1,0 +1,40 @@
+git commit -m "httpClient post and put"
+git push
+17930
+
+
+install json server
+	
+Check Json installed version
+json-server --v
+prraful@gmail.com
+9913113499
+
+
+create directory for json data
+
+mkdr data
+
+create json file inside data
+and have entered data
+then
+host it
+D:\Angular\Training\angularFirst\data>json-server friends.json
+
+
+Anitmate:
+import AnimationModule
+1. trigger()
+
+
+appmodule.ts
+import { AnimatetextComponent } from './animate/animatetext/animatetext.component';
+import: BrowserAnimationsModule
+
+
+in .ts file
+import{ trigger,state,style,transition,animate } from "@angular/animations";
+
+
+
+	
